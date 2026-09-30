@@ -1,5 +1,5 @@
 export default function Experiencia() {
-  const videoId = 'O4gtRK2tCsQ' // cambia esto por el ID de tu video
+  const videoId = 'O4gtRK2tCsQ' 
 
   return (
     <div style={{ textAlign: 'center', padding: '20px' }}>
